@@ -1,0 +1,6 @@
+{
+  "name": "SIAS Siswa — Akademik & Manajemen Tugas Prioritas",
+  "description": "Aplikasi mobile-first (PWA) Sistem Informasi Akademik Sekolah untuk manajemen tugas berbasis prioritas, absensi QR dinamis, jadwal pelajaran, dan pengajuan izin dengan kompresi kamera langsung.",
+  "requestFramePermissions": ["camera", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
